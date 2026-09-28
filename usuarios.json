@@ -1,0 +1,14 @@
+[
+  {
+    "usuario": "Markbn115",
+    "activo": true
+  },
+  {
+    "usuario": "Markbn116",
+    "activo": true
+  },
+  {
+    "usuario": "Pedro",
+    "activo": false
+  }
+]
